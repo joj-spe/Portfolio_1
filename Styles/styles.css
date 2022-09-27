@@ -672,6 +672,7 @@ h2
         background-color: #F0FFFF;
         display: flex;
         flex-basis: auto;
+        vertical-align: center;
     }
     .corps
     {
